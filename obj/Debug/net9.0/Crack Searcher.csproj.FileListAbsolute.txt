@@ -1,0 +1,4 @@
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net9.0\Crack Searcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net9.0\Crack Searcher.AssemblyInfoInputs.cache
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net9.0\Crack Searcher.AssemblyInfo.cs
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net9.0\Crack Searcher.csproj.CoreCompileInputs.cache

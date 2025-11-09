@@ -1,0 +1,14 @@
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\bin\Debug\net8.0-windows\Crack Searcher.exe
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\bin\Debug\net8.0-windows\Crack Searcher.deps.json
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\bin\Debug\net8.0-windows\Crack Searcher.runtimeconfig.json
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\bin\Debug\net8.0-windows\Crack Searcher.dll
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\bin\Debug\net8.0-windows\Crack Searcher.pdb
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net8.0-windows\Crack Searcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net8.0-windows\Crack Searcher.AssemblyInfoInputs.cache
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net8.0-windows\Crack Searcher.AssemblyInfo.cs
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net8.0-windows\Crack Searcher.csproj.CoreCompileInputs.cache
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net8.0-windows\Crack Searcher.dll
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net8.0-windows\refint\Crack Searcher.dll
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net8.0-windows\Crack Searcher.pdb
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net8.0-windows\Crack Searcher.genruntimeconfig.cache
+C:\WSS (C-DRIVE)\Programs\Cracked Games Parser\obj\Debug\net8.0-windows\ref\Crack Searcher.dll
