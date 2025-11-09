@@ -40,8 +40,8 @@ class Program : Form
     private Dictionary<string, string> lastContents = new Dictionary<string, string>();
     private System.Timers.Timer updateTimer;
     private const string CurrentVersion = "1.1.0"; // your app's version
-    private const string LatestVersionUrl = "https://raw.githubusercontent.com/AnInsider/Game-Puller/main/version.txt";
-    private const string GitHubReleasesUrl = "https://github.com/AnInsider/Game-Puller/releases/tag/Release";
+    private const string LatestVersionUrl = "https://raw.githubusercontent.com/InsiderANN/Game-Puller/main/version.txt";
+    private const string GitHubReleasesUrl = "https://github.com/InsiderANN/Game-Puller/releases/tag/Release";
 
 
     [STAThread]
@@ -428,4 +428,5 @@ class JsonMaker : Form
         }
     }
 }
+
 
