@@ -13,4 +13,4 @@ Type: [Add/Update]
 
 Store Link: [Link to a link to where you buy the game, preferably Steam]
 
-If Update, why?: [Reason]
+Why?: [Reason]
